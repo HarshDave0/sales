@@ -41,8 +41,8 @@ Since the dataset is related to the tourism industry, the ranking of the countri
 ### Modelling: 
 [Modelling](https://github.com/Pahulpreet86/sales/blob/master/Modelling.ipynb)   
 For modelling the Category,Country Category and Rank attribute were used, with the size category as the target variable. All the categorical variable were label encoded before model fitting.The train and test size selected was 70:30 (70% for training and 30% for testing phase).
-Autoslearn was used to select the best ensemble model for the dataset. The model was then saved as [automl.dump.pkl](https://github.com/Pahulpreet86/sales/blob/master/automl.dump.pkl)
-The final model description is in ([Final Ensemble Model Specification](https://github.com/Pahulpreet86/sales/blob/master/Final%20Ensemble%20Model%20Specification.pdf))
+Autoslearn was used to select the best ensemble model for the dataset. The model was then saved as [automl.dump.pkl](https://github.com/Pahulpreet86/sales/blob/master/automl.dump.pkl).
+The final model description is in [Final Ensemble Model Specification](https://github.com/Pahulpreet86/sales/blob/master/Final%20Ensemble%20Model%20Specification.pdf)
 
 ### Prediction: 
 [Prediction](https://github.com/Pahulpreet86/sales/blob/master/Prediction.ipynb)   
